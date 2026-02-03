@@ -1,12 +1,12 @@
 const messages = [
     "T'es sûre?",
     "Vraiment sûre??",
-    "Tu valides vraiment???",
+    "Suce ma flûte???",
     "Stpp ma femme????",
-    "Réfléchis!",
+    "Depeche sale soumise!",
     "Si tu recliques, je te quitte",
     "T'es sérieuse?????",
-    "STPPPPPPPP",
+    "Mange ma glace a la viande",
     "Vasy c'est bon j'arrete",
     "MDRRR JAMAAAIIS CLIQUE"
 ];
